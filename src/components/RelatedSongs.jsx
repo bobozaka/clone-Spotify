@@ -1,3 +1,5 @@
+import React from 'react';
+
 import SongBar from './SongBar';
 
 const RelatedSongs = ({
@@ -27,5 +29,4 @@ const RelatedSongs = ({
     </div>
   </div>
 );
-
 export default RelatedSongs;
